@@ -55,9 +55,13 @@ while True:
     conn.close() 
  ```
 ## OUPUT
+
 CLIENT:
+
 ![Screenshot 2025-04-07 085255](https://github.com/user-attachments/assets/15172903-4c0a-4ef0-9508-b20d0456620f)
+
 SERVER:
+
 ![Screenshot 2025-04-07 085316](https://github.com/user-attachments/assets/2baa2d6f-d4fe-49b3-aff3-5ea90e55e9a5)
 
 
